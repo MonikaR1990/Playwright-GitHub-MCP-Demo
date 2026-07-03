@@ -7,4 +7,5 @@ test('example test', async ({ page }) =>
   console.log("Hello Google")
   console.log("Hello Google! How are you doing today?");
   console.log("Hello Google! How are you doing today? I hope you are having a great day!");
+  console.log("Hello Playwright");
 });
