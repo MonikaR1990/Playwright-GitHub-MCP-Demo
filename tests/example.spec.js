@@ -4,4 +4,5 @@ test('example test', async ({ page }) =>
 {
   await page.goto('https://google.com');
   await expect(page).toHaveTitle(/Google/);
+  console.log("Hello Google")
 });
