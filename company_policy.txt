@@ -1,0 +1,22 @@
+ABC Technologies Company Policy
+
+1. Office timing is 9:00 AM to 6:00 PM.
+
+2. Employees are allowed to work from home two days per week.
+
+3. Casual Leave:
+Employees receive 12 casual leaves every year.
+
+4. Password Policy:
+Passwords must contain at least
+- 8 characters
+- One uppercase letter
+- One number
+- One special character
+
+5. Dress Code:
+Business casual from Monday to Thursday.
+Friday is casual wear.
+
+6. Laptop Policy:
+Employees should lock the laptop whenever leaving the desk.
